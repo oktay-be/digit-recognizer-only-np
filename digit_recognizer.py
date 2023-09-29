@@ -3,6 +3,7 @@ import mlflow
 import requests, gzip, os, hashlib
 from matplotlib import pyplot as plt
 
+# TODO: Automate data download if missing
 # uncomment to download data
 # path='./data'
 # def fetch(url):
